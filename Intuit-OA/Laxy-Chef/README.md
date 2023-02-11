@@ -31,6 +31,12 @@ Print the minimum number of moves in which chef
 can complete this task.
 
 ## Example
+INPUT: 
 7
+
 H D H S A H S
+
 H
+
+OUTPUT:
+3
